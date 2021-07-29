@@ -1,6 +1,6 @@
 # Receita de Strogonoff de Carne :ox:
 
-## INGREDIENTES
+### INGREDIENTES
 
 - 400g de carne (filé mignon, chã de dentro ou alcatra)
 - Pimenta
@@ -13,7 +13,7 @@
 - 1 colher (sopa) de mostarda
 - Óleo para fritar
 
-## MODO DE PREPARO
+### MODO DE PREPARO
 
 
 
